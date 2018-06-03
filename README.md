@@ -8,10 +8,19 @@ The goal of the project is to design device drivers to interface the SJOne micro
 Components we used:
 
 Vs1053 MP3 Dev Board
+
+
 SJOne Board
+
+
 2x16 LCD w/ I²C backpack
+
+
 6 push button/switch
+
+
 Breadboard
+
 
 ## Code Breakdown:
 
