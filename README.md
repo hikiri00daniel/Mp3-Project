@@ -36,4 +36,5 @@ Lawrence: LCD screen
 Together: Interfacing and testing the final product
 
 ## Final Product
-[[https://github.com/hikiri00daniel/Mp3-Project/blob/master/mp3%20final.JPG|alt=octocat]]
+![alt text](https://github.com/hikiri00daniel/Mp3-Project/blob/master/mp3%20final.JPG)
+
